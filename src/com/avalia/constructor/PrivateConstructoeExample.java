@@ -5,7 +5,7 @@ public class PrivateConstructoeExample {
 
 	private PrivateConstructoeExample() {
 
-		System.out.println("I am private constructor");
+		System.out.println("This is private constructor");
 	}
 
 	public static void main(String[] args) {
